@@ -1,0 +1,35 @@
+body{
+    color: #666666;
+    font-family: "Literata", serif;
+    height:100%;
+}
+h1{
+    font-size: 50px;
+}
+button{
+    color: #666666;
+    font-family: "Literata", serif;
+    background-color: #b4a365;
+    margin: 15px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+
+.hover a:hover, button:hover{
+    color: #666666;
+    font-family: "Literata", serif;
+    text-decoration: none;
+}
+a:active, a:visited, a:link, button:active, button:link, button:visited{
+    color: #666666;
+    font-family: "Literata", serif;
+    text-decoration: none;
+}
+img{
+    height: 100px;
+    border: black;
+    border-radius: 90%;
+}
+.teachlogin{
+    font-size: 500px;
+}
